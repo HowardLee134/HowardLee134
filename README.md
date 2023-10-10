@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on a VR application for a 3D Tooth visualization for UOP Dental students
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/minglee199668/)
-  
 - 💼 Current seeking for a Full-time job opportunity.
 
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/minglee199668/)
+  
 - 😄 Pronouns: He/Him.
 
 <h3 align="left">Connect with me:</h3>
