@@ -1,8 +1,11 @@
 <h1 align="center">Hi 🤟, I'm Howard</h1>
 <h3 align="center">A passionate Software Developer Student</h3>
 - 🔭 I’m currently working on a VR application for a 3D Tooth visualization for UOP Dental students
+
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/minglee199668/)
-- 💼 Current seeking for a Full-time job opportunity. 
+  
+- 💼 Current seeking for a Full-time job opportunity.
+
 - 😄 Pronouns: He/Him.
 
 <h3 align="left">Connect with me:</h3>
