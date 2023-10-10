@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hi 🤟, I'm Howard</h1>
+<h3 align="center">A passionate Software Developer student</h3>
 <!--
 **HowardLee134/HowardLee134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
