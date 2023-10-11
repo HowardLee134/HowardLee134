@@ -5,9 +5,11 @@
 
 - 💼 Current seeking for a Full-time job opportunity.
 
+- 😄 Pronouns: He/Him.
+
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/minglee199668/)
   
-- 😄 Pronouns: He/Him.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
