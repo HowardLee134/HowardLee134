@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a VR application for a 3D Tooth visualization for UOP Dental students
 
-- 💼 Current seeking for a Full-time job opportunity.
+- 💼 Current seeking for a Full-time job opportunity. Email: howard199668@gmail.com
 
 - 😄 Pronouns: He/Him.
 
